@@ -30,3 +30,8 @@
 /Users/jessica/Desktop/git-repositories/dotNet/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.pdb
 /Users/jessica/Desktop/git-repositories/dotNet/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.csproj.CopyComplete
 /Users/jessica/Desktop/git-repositories/dotNet/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.csprojAssemblyReference.cache
+/Users/jessica/Desktop/git-repositories/dotNet/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Create.g.cshtml.cs
+/Users/jessica/Desktop/git-repositories/dotNet/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Delete.g.cshtml.cs
+/Users/jessica/Desktop/git-repositories/dotNet/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Details.g.cshtml.cs
+/Users/jessica/Desktop/git-repositories/dotNet/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Edit.g.cshtml.cs
+/Users/jessica/Desktop/git-repositories/dotNet/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Index.g.cshtml.cs
